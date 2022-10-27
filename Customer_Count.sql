@@ -4,4 +4,4 @@
 
 select count(*)
 from customer
-group by gender;
+group by GENDER;
